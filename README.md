@@ -1,1 +1,1 @@
-play.picoctf.org
+https://play.picoctf.org/
